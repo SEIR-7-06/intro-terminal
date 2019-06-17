@@ -2,20 +2,6 @@
 
 # SEI
 
----
-
-Command Line Workthrough<br>
-Duration: 1.5 hrs<br>
-Adapted by Reuben Ayres from:<br>
-"w01d01 Morning Lesson" created by: Thom Page<br>
-and "Terminal Basics + Navigating the Filesystem,"<br>
-
-Topics: Intro, Terminal, "Hello World"<br>
-
-<hr>
-<br>
-
-
 ## Software
 
 - Google Chrome
