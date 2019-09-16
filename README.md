@@ -205,13 +205,13 @@ Example:
 * Be obsessive, starting today
 * Inside your home folder, create a folder where everything from the class will live, and always put everything from class in there:
 
-`mkdir june-bugs` (the name of our class; if you like you could add a prefix like `sei` or `ga` something like that)<br>
-`cd june-bugs`
+`mkdir sei` <br>
+`cd sei`
 
-* In that folder, make a new folder for each day where the name includes the date and topics for the day, and go into it. Suggestion below:
+* In that folder, make a new folder for each topic we will be going over in class. Suggestion below:
 
-`mkdir 9_10_2018_terminal_loops`<br>
-`cd 9_10_2018_terminal_loops`
+`mkdir fundamentals`<br>
+`cd fundamentals`
 
 * In that folder make a new folder for each lesson or lab or homework and give that folder a nice descriptive name, for example:
 
@@ -220,19 +220,6 @@ Example:
 
 
 <br>
-
-&#x1F535; **Code Along (4 min)**
-
-* Navigate to today's folder, and to the terminal_practice folder you just created
-* Make a directory `exercise`
-* Go into the directory with autocomplete
-* Make two directories `example1` and `example3` and list them
-* Go into `example1` with autocomplete
-* Make two directories on a single line, `example3` and `example4`
-* Go into `example3` and make a file `file1.txt`
-* List the file
-* Navigate back to exercise
-
 
 ---
 
