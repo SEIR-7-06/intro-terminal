@@ -415,7 +415,7 @@ Open this folder structure in chrome and click on index.html.  Open the develope
 
 > => Hello World!
 
-**Congrats!** You've written your first "Hello World" of **sei_june_bugs**!
+**Congrats!** You've written your first "Hello World" of the course!
 
 <br>
 <hr>
