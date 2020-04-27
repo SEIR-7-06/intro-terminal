@@ -2,23 +2,6 @@
 
 # SEI
 
-## Software
-
-- Google Chrome
-- Sublime Text?
-	- [Sublime Text](https://www.sublimetext.com/)
-- Or Atom, if you must
-	- [Download Atom](https://atom.io/)
-- We will be using VSCODE in this lesson
-	-[VSCODE](https://code.visualstudio.com/)
-
-<!-- - Node installed?
-	- [Download Node](https://nodejs.org/en/download/)
-	- Click on "Macintosh Installer"
-	- Install the package -->
-
-<br>
-<hr>
 
 ## Lesson Objectives
 
